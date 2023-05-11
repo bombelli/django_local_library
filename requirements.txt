@@ -17,13 +17,11 @@ gunicorn==20.1.0
 MarkupPy==1.14
 numpy==1.24.3
 odfpy==1.4.1
-openbabel @ file:///C:/Users/bid2/Downloads/openbabel-3.1.1-cp310-cp310-win_amd64.whl
 openpyxl==3.1.2
 Pillow==9.4.0
 psycopg2==2.9.5
 pytz==2023.3
 PyYAML==6.0
-rdkit-pypi==2022.9.5
 reportlab==3.6.12
 sqlparse==0.4.3
 tablib==3.4.0
